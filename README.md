@@ -6,7 +6,7 @@ The datasets used in this repository were preprocessed and adapted for the study
 
 
 
-Please note that the calculations were conducted in a private cloud environment containing session and credential details in the file paths. To ensure security, all file paths in the scripts have been anonymized.
+Please note that the calculations were conducted in a private cloud environment containing session and credential details in the file paths. To ensure privacy and security, all file paths in the scripts have been anonymized.
 
 
 ## Directory Structure
