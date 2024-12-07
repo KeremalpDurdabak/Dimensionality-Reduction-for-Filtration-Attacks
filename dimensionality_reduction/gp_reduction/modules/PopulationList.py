@@ -17,6 +17,4 @@ class PopulationList:
         for population in self.populations.values():
             population.generate_children()
 
-    # ... (any other existing methods you may have)
-
 # Add any additional methods that are necessary for the PopulationList class to function.

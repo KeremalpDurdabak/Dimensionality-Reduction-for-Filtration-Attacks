@@ -22,8 +22,8 @@ def main():
                 ("Thursday, July 6, 2017", "15:04", "15:45")
             ],
             "date_format": "%A, %B %d, %Y %H:%M",
-            "file_path": "C:\\Users\\kinid\\OneDrive\\Desktop\\UNB\\2017\\flow_extracted\\2017_Infiltration_Flow\\Thursday_Infiltration_Flow_flows.xlsx",
-            "output_file": "C:\\Users\\kinid\\OneDrive\\Desktop\\Thursday_Infiltration_Flow_filtered.xlsx"
+            "file_path": "Lorem\\Ipsum\\Thursday_Infiltration_Flow_flows.xlsx",
+            "output_file": "Lorem\\Ipsum\\Thursday_Infiltration_Flow_filtered.xlsx"
         },
         {
             "timestamps": [

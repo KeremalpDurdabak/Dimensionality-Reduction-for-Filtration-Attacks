@@ -56,7 +56,7 @@ def save_general_statistics(X_train, y_train, X_test, y_test, folder_path):
             file.write(f"Testing {label} Instances: {test_counts.get(label, 0)}\n")
 
 def run_random_forest_for_each_dataset_type():
-    base_folder = "Lorem/Ipsum/ML_Scores"  # Anonymized base folder path
+    base_folder = "Lorem/Ipsum/ML_Scores"
 
     for key, path in dataset_paths.items():
         if "Train" in key:

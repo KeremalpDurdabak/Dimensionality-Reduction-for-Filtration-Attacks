@@ -12,8 +12,7 @@ def main():
     for run in range(1, num_runs + 1):
 
         # Create a new directory for each run
-        #run_directory = f'C:/Users/kerem/Desktop/Latest_GP/RUNS/CERT r4.2/Session/No_Fitness_Sharing/NFS_RUN{run}'
-        run_directory = f'C:/Users/kerem/Desktop/Latest_GP/RUNS/CERT r4.2/Session/Fitness_Sharing/FS_RUN{run}'
+        run_directory = f'Lorem/Ipsum/Fitness_Sharing/FS_RUN{run}'
         os.makedirs(run_directory, exist_ok=True)
 
         # File paths for saving results
@@ -21,13 +20,7 @@ def main():
         equation_save_path = f'{run_directory}/unb2017_eq.txt'
 
         # Load training dataset
-        #train_path = r"C:\Users\kerem\Desktop\Datasets\UNB 2017\UNB2017_Original_Stratified_Train.csv"
-
-        #train_path = r"C:\Users\kerem\Desktop\Datasets\UNB 2018\UNB2018_Original_Stratified_Train.csv"
-
-        #train_path = r"C:\Users\kerem\Desktop\Datasets\CERT r4.2\Week\WEEK_Original_Stratified_Train.csv"
-        #train_path = r"C:\Users\kerem\Desktop\Datasets\CERT r4.2\Day\DAY_Original_Stratified_Train.csv"
-        train_path = r"C:\Users\kerem\Desktop\Datasets\CERT r4.2\Session\SESSION_Original_Stratified_Train.csv"
+        train_path = r"Lorem\Ipsum\SESSION_Original_Stratified_Train.csv"
         
         Dataset.load_dataset(train_path)
         Dataset.stratified_sample(Parameter.sample_count)
