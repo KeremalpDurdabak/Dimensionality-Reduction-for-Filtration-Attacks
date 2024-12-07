@@ -11,7 +11,7 @@ Please note that the calculations were conducted in a private cloud environment 
 
 ## Directory Structure
 
-- **/data_preprocessing/**: Preprocessing script for the UNB CIC-IDS2017 and UNB CSE-CIC-IDS2018 datasets. For CERT r4.2 preprocessing, an open-source granularity extractor algorithm is used. For more details, refer to [this repository](https://github.com/lcd-dal/feature-extraction-for-CERT-insider-threat-test-datasets).
+- **/data_preprocessing/**: Preprocessing script for the UNB CIC-IDS2017 and UNB CSE-CIC-IDS2018 datasets. For CERT r4.2 preprocessing, an open-source granularity extractor algorithm is used. For more details, please refer to [this repository](https://github.com/lcd-dal/feature-extraction-for-CERT-insider-threat-test-datasets).
 
 
 - **/dimensionality_reduction/**: Includes canonical dimensionality reduction scripts for algorithms such as PCA, ICA, and Autoencoders using the scikit-learn library, as well as a custom-implemented Genetic Programming algorithm.
