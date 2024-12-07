@@ -2,6 +2,10 @@
 
 This repository contains the source code and scripts associated with the paper *Exploring the Effect of Dimensionality Reduction Techniques on Filtration Attacks*. The study focuses on assessing the performance of feature-reduced datasets against original features on various filtration attack scenarios.
 
+The datasets used in this repository were preprocessed and adapted for the study. The original versions can be accessed at the following links: [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html), [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html), and [CERT r4.2](https://kilthub.cmu.edu/articles/dataset/Insider_Threat_Test_Dataset/12841247).
+
+
+
 Please note that the calculations were conducted in a private cloud environment containing session and credential details in the file paths. To ensure security, all file paths in the scripts have been anonymized.
 
 
@@ -12,7 +16,7 @@ Please note that the calculations were conducted in a private cloud environment 
 
 - **/dimensionality_reduction/**: Includes canonical dimensionality reduction scripts for algorithms such as PCA, ICA, and Autoencoders using the scikit-learn library, as well as a custom-implemented Genetic Programming algorithm.
 
-- **/feature_extraction/**: Feature extraction script for the UNB CIC-IDS2017 and UNB CSE-CIC-IDS2018 datasets, extracting specific features based on attack timestamps provided in the dataset documentation. See [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) and [CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html) for details. For CERT r4.2, the previously mentioned open-source granularity extractor algorithm is used.
+- **/feature_extraction/**: Feature extraction script for the UNB CIC-IDS2017 and UNB CSE-CIC-IDS2018 datasets, extracting specific features based on attack timestamps provided in the dataset documentation. For CERT r4.2, the previously mentioned open-source granularity extractor algorithm is used.
 
 
 - **/model_training/**: Contains a Random Forest implementation using the scikit-learn library to train and evaluate the performance of datasets with dimensionality-reduced features compared to those with the original features.
