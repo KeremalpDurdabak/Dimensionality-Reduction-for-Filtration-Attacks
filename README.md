@@ -11,18 +11,8 @@ The datasets used are [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.htm
 
 ## Citation
 
-Please cite the following works if you use this repository or reference the methodologies applied:
+Please cite the following paper if you use this repository or reference the methodologies applied:
 
 **Keremalp Durdabak, Nur Zincir-Heywood, Malcolm Heywood, et al.**  
 "Exploring the Effect of Dimensionality Reduction Techniques on Filtration Attacks"  
 IEEE Symposium Series on Computational Intelligence (SSCI 2025), Trondheim, Norway, 2025.
-
-**Keremalp Durdabak, Nur Zincir-Heywood, Malcolm Heywood, et al.**  
-"Exploring the Effect of Sampling and Dimensionality Reduction Techniques for Insider Threat Detection"  
-Master's Thesis, Dalhousie University, Halifax, Canada, 2023.  
-[DOI: http://hdl.handle.net/10222/84358](http://hdl.handle.net/10222/84358)
-
-<!-- **D. C. Le, N. Zincir-Heywood, and M. I. Heywood**  
-"Analyzing Data Granularity Levels for Insider Threat Detection Using Machine Learning."  
-IEEE Transactions on Network and Service Management, vol. 17, no. 1, pp. 30–44, March 2020.  
-[DOI: 10.1109/TNSM.2020.2967721](https://doi.org/10.1109/TNSM.2020.2967721) -->
