@@ -11,7 +11,7 @@ The datasets used are [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.htm
 
 ## Citation
 
-Please cite the following works if you use this repository or reference the concepts:
+Please cite the following works if you use this repository or reference the methodologies applied:
 
 **Keremalp Durdabak, Nur Zincir-Heywood, Malcolm Heywood, et al.**  
 "Exploring the Effect of Dimensionality Reduction Techniques on Filtration Attacks."  
