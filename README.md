@@ -14,11 +14,11 @@ The datasets used are [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.htm
 Please cite the following works if you use this repository or reference the methodologies applied:
 
 **Keremalp Durdabak, Nur Zincir-Heywood, Malcolm Heywood, et al.**  
-"Exploring the Effect of Dimensionality Reduction Techniques on Filtration Attacks."  
+"Exploring the Effect of Dimensionality Reduction Techniques on Filtration Attacks"  
 IEEE Symposium Series on Computational Intelligence (SSCI 2025), Trondheim, Norway, 2025.
 
 **Keremalp Durdabak, Nur Zincir-Heywood, Malcolm Heywood, et al.**  
-"Exploring the Effect of Dimensionality Reduction Techniques on Filtration Attacks."  
+"Exploring the Effect of Sampling and Dimensionality Reduction Techniques for Insider Threat Detection"  
 Master's Thesis, Dalhousie University, Halifax, Canada, 2023.  
 [DOI: http://hdl.handle.net/10222/84358](http://hdl.handle.net/10222/84358)
 
